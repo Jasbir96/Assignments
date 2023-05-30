@@ -7,7 +7,6 @@ function resolveAfterNSeconds(n, x) {
     });
 }
 
-
 (function () {
     let a = resolveAfterNSeconds(1000, 1)
     a.then(async function (x) {

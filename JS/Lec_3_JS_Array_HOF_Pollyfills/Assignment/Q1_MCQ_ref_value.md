@@ -1,7 +1,6 @@
 # Title:
 call By Ref call By value
 
-
 ## Description:
 **Find output of the following:**
 ```javascript
