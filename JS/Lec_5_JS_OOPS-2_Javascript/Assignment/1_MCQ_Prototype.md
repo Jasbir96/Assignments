@@ -1,4 +1,4 @@
-## Que What will be aoutput of this question ?
+## Que What will be theoutput of this question ?
 ```javascript
 function Rabbit(name) {
   this.name = name;
