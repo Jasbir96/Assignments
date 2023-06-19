@@ -1,5 +1,6 @@
 Q There’s a ladder object that allows to go up and down:
 
+```javascript
 let ladder = {
   step: 0,
   up() {
@@ -20,9 +21,11 @@ ladder.up();
 ladder.up();
 ladder.down();
 ladder.showStep(); // 1
+```
 Modify the code of up, down and showStep to make the calls chainable, like this:
-
+```javascript
 ladder.up().up().down().showStep(); // 1
+```
 Such approach is widely used across JavaScript libraries.
 
 
