@@ -1,3 +1,4 @@
+<!-- added -->
 Write a function number which accepts three input two numbers x ,y and a function (fn). Number function applies  function (fn) to x and y and returns the result
 definition : number(x,y,fn);
 Input : 3,4,sum

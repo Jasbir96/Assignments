@@ -1,4 +1,5 @@
-// Implement bind method below
+<!-- added -->
+// bind snap method so that iron man use this method
 // thanos has snapped the finger use bind method in such a way that now iron man should be able to snap the finger again !!
 let thanos = {
     name:"THANOS",

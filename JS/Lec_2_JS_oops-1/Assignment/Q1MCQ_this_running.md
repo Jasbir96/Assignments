@@ -1,3 +1,4 @@
+<!-- added -->
 let cap={
     name:"Steve",
     sayHi:function(){

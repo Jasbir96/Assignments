@@ -1,16 +1,5 @@
-// const cap = {
-//     name: "Steve",
-//     sayHi:  function(){
-//         console.log("53", this.name);
-//         function iAmInner(){
-//             console.log("55", this.name);
-//         }
-//         iAmInner();
-//     }
-// }
-// cap.sayHi();
 
-
+```javascript
 let cap={
     name:"Steve",
     sayHi:function(){
@@ -21,3 +10,4 @@ let cap={
 cap.sayHi();
 let sayHiAdd=cap.sayHi;
 sayHiAdd();
+```

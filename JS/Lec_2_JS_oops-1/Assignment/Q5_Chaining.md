@@ -1,3 +1,4 @@
+<!-- added -->
 Q There’s a ladder object that allows to go up and down:
 
 let ladder = {

@@ -1,4 +1,5 @@
-<!-- Consider the following code snippet: -->
+<!-- added -->
+## Consider the following code snippet:
 
 ```javascript
 var result = (function() {
