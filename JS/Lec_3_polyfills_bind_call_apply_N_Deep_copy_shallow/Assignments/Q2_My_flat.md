@@ -1,4 +1,4 @@
-# Q1: Create a fn flatten that takes an array and returns a single flatten array of values , regardless of how many nested ar in the input array
+# Q1: Create a fn flatten that takes an array and returns a single flatten array of values , regardless of how many nested arrays are  in the input array
 ## Input
 ```javascript
 let arr=[1,2,3,[4,5],[6,7,8,[9,10,11]]];
