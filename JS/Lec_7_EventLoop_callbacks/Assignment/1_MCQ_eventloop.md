@@ -1,4 +1,4 @@
-Which component of JavaScript handles the execution of asynchronous code through the event loop?
+Which component handles execution of asynchronous code/ callbacks?
 
 A) Callback Queue
 B) Call Stack
